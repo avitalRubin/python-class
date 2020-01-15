@@ -1,0 +1,14 @@
+a=12
+b=3
+print(a-b)
+print(a/b)
+print(a//b)
+print(a%b)
+x=15
+y=2.40
+print(int(x//y))
+print(a+b/3-4*12)
+c=a+b
+d=c/3
+e=d-4
+print(e*12)
